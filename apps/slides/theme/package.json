@@ -1,0 +1,16 @@
+{
+  "name": "slidev-theme-santychuy-dark",
+  "private": true,
+  "type": "module",
+  "slidev": {
+    "colorSchema": "dark",
+    "defaults": {
+      "aspectRatio": "16/9",
+      "canvasWidth": 1440,
+      "selectable": true,
+      "fonts": {
+        "provider": "none"
+      }
+    }
+  }
+}

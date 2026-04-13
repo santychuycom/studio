@@ -8,6 +8,9 @@
     "export": {
       "outputs": ["dist/slides.pdf"]
     },
+    "export:pptx": {
+      "outputs": ["dist/slides.pptx"]
+    },
     "dev": {
       "cache": false,
       "persistent": true

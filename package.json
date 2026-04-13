@@ -4,7 +4,8 @@
   "scripts": {
     "build": "turbo run build",
     "dev": "turbo run dev",
-    "export": "turbo run export --filter=slides"
+    "export": "turbo run export --filter=slides",
+    "export:pptx": "turbo run export:pptx --filter=slides"
   },
   "devDependencies": {
     "turbo": "^2.8.21"
